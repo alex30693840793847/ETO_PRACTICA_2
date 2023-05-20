@@ -1,0 +1,15 @@
+D:\choet\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\choet\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+D:\choet\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.AssemblyReference.cache
+D:\choet\Zadanie1\Zadanie1\obj\Debug\MainWindow.g.cs
+D:\choet\Zadanie1\Zadanie1\obj\Debug\App.g.cs
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.cache
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.lref
+D:\choet\Zadanie1\Zadanie1\obj\Debug\MainWindow.baml
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.g.resources
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+D:\choet\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb

@@ -1,0 +1,14 @@
+D:\choet\Zadanie1\Zadanie5\obj\Debug\MainWindow.g.cs
+D:\choet\Zadanie1\Zadanie5\obj\Debug\App.g.cs
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.cache
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.lref
+D:\choet\Zadanie1\Zadanie5\bin\Debug\Zadanie5.exe.config
+D:\choet\Zadanie1\Zadanie5\bin\Debug\Zadanie5.exe
+D:\choet\Zadanie1\Zadanie5\bin\Debug\Zadanie5.pdb
+D:\choet\Zadanie1\Zadanie5\obj\Debug\MainWindow.baml
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.g.resources
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.Properties.Resources.resources
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.csproj.GenerateResource.cache
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.csproj.CoreCompileInputs.cache
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.exe
+D:\choet\Zadanie1\Zadanie5\obj\Debug\Zadanie5.pdb

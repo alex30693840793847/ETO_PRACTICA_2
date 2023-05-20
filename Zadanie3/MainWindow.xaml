@@ -1,0 +1,43 @@
+﻿<Window x:Class="Zadanie3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="K:" FontSize="30"/>
+        <TextBox x:Name="TBK" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="4"/>
+        <Button Grid.Row="8" Grid.ColumnSpan="5" Grid.RowSpan="2" Content="OK" Click="Button_Click"/>
+        <TextBox x:Name="OTV" Grid.Row="10" Grid.RowSpan="2" Grid.ColumnSpan="5"/>
+        <TextBlock Text="1 - понедельник" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock Text="2 - вторник" Grid.Row="2" Grid.Column="1"/>
+        <TextBlock Text="3 - среда" Grid.Row="3" Grid.Column="1"/>
+        <TextBlock Text="4 - четверг" Grid.Row="4" Grid.Column="1"/>
+        <TextBlock Text="5 - пятница" Grid.Row="5" Grid.Column="1"/>
+        <TextBlock Text="6 - суббота" Grid.Row="6" Grid.Column="1"/>
+        <TextBlock Text="7 - воскресенье" Grid.Row="7" Grid.Column="1"/>
+    </Grid>
+</Window>
